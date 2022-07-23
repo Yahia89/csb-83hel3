@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yahia89.github.io/csb-83hel3/static/css/main.f551a21f.chunk.css",
+    "main.js": "https://yahia89.github.io/csb-83hel3/static/js/main.c3383dd8.chunk.js",
+    "main.js.map": "https://yahia89.github.io/csb-83hel3/static/js/main.c3383dd8.chunk.js.map",
+    "runtime-main.js": "https://yahia89.github.io/csb-83hel3/static/js/runtime-main.16210c07.js",
+    "runtime-main.js.map": "https://yahia89.github.io/csb-83hel3/static/js/runtime-main.16210c07.js.map",
+    "static/js/2.e4a10f8d.chunk.js": "https://yahia89.github.io/csb-83hel3/static/js/2.e4a10f8d.chunk.js",
+    "static/js/2.e4a10f8d.chunk.js.map": "https://yahia89.github.io/csb-83hel3/static/js/2.e4a10f8d.chunk.js.map",
+    "index.html": "https://yahia89.github.io/csb-83hel3/index.html",
+    "static/css/main.f551a21f.chunk.css.map": "https://yahia89.github.io/csb-83hel3/static/css/main.f551a21f.chunk.css.map",
+    "static/js/2.e4a10f8d.chunk.js.LICENSE.txt": "https://yahia89.github.io/csb-83hel3/static/js/2.e4a10f8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16210c07.js",
+    "static/js/2.e4a10f8d.chunk.js",
+    "static/css/main.f551a21f.chunk.css",
+    "static/js/main.c3383dd8.chunk.js"
+  ]
+}
